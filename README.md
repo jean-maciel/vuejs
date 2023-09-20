@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+
 # vuejs
+
 VueJS studies
 =======
+
 # app
 
 ## Project setup
@@ -31,4 +34,4 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> c27868c (init)
+> > > > > > > c27868c (init)
